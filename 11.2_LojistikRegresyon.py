@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-veriler= pd.read_csv("https://bilkav.com/veriler.csv")
+veriler= pd.read_csv("veriler.csv")
 
 x= veriler.iloc[:,1:4].values #bağımsız değ.
 y= veriler.iloc[:,4:].values # bağımlı değ.
