@@ -1,1 +1,1 @@
-### Machine Learning exercises with Python
+### Machine Learning algorithms and exercises with Python
